@@ -11,8 +11,6 @@
 </head>
 
 <body>
-
-  <!-- ! navbar start -->
   <div class="navbar">
     <div class="navbar-wrapper">
       <div class="logo-wrapper">
